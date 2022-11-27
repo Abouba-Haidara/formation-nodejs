@@ -1,9 +1,9 @@
 # formation-nodejs
 Formation REST API NODEJS MONGODB EXPRESS
 ## Opérations
-Insertion des données dans la base de données.
-Obtenir toutes les données de la base de données.
-Obtenir des données basées sur l'ID.
-Mise à jour des données en fonction de l'ID.
-Suppression des données en fonction de l'ID.
-Suppression des données dans la base de données.
+Insertion des produits dans la base de données.<br>
+Obtenir tout les produits de la base de données.<br>
+Obtenir des produits basées sur l'ID.<br>
+Mise à jour des produits en fonction de l'ID.<br>
+Suppression des produits en fonction de l'ID.<br>
+
