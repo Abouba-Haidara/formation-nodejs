@@ -1,0 +1,24 @@
+{
+  "name": "formation-nodejs",
+  "version": "1.0.0",
+  "description": "formation nodejs rest api et express, mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "Team YeminiCoder",
+  "license": "MIT ",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20"
+  }
+}
