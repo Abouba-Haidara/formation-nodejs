@@ -31,7 +31,8 @@ module.exports = mongoose =>  {
     return object;
  });
 
- const Produit =  mongoose.model("Produit", ProduitSchema); 
+ const Produit =  mongoose.model("Produit", ProduitSchema);
+ //j
 
  return Produit ;
 }
